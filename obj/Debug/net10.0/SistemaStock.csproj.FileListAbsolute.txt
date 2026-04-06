@@ -1,0 +1,15 @@
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/bin/Debug/net10.0/SistemaStock
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/bin/Debug/net10.0/SistemaStock.deps.json
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/bin/Debug/net10.0/SistemaStock.runtimeconfig.json
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/bin/Debug/net10.0/SistemaStock.dll
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/bin/Debug/net10.0/SistemaStock.pdb
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/obj/Debug/net10.0/SistemaStock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/obj/Debug/net10.0/SistemaStock.AssemblyInfoInputs.cache
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/obj/Debug/net10.0/SistemaStock.AssemblyInfo.cs
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/obj/Debug/net10.0/SistemaStock.csproj.CoreCompileInputs.cache
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/obj/Debug/net10.0/SistemaStock.sourcelink.json
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/obj/Debug/net10.0/SistemaStock.dll
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/obj/Debug/net10.0/refint/SistemaStock.dll
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/obj/Debug/net10.0/SistemaStock.pdb
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/obj/Debug/net10.0/SistemaStock.genruntimeconfig.cache
+/Users/pablo/Desktop/Benja Pt1 CV/SistemaStock/obj/Debug/net10.0/ref/SistemaStock.dll
