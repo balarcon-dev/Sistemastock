@@ -1,0 +1,17 @@
+[
+  {
+    "Nombre": "Dolchester",
+    "Stock": 15,
+    "Precio": 16500
+  },
+  {
+    "Nombre": "RedPoint",
+    "Stock": 17,
+    "Precio": 15800
+  },
+  {
+    "Nombre": "gongys",
+    "Stock": 4,
+    "Precio": 600
+  }
+]
