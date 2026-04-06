@@ -46,5 +46,14 @@ namespace SistemaStock
 
         public int CantidadProductos() => productos.Count;
         public Producto GetProducto(int indice) => productos[indice];
-    }
+    
+    //AGREGO UN SISTEMA DE VALOR DE MI INVENTARIO
+    public decimal ValorTotalInventario()
+{
+    decimal total = 0;  
+    foreach (var p in productos)
+        total += p.Precio * p.Stock;
+    return total;
+}
+}
 }

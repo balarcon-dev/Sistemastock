@@ -11,10 +11,11 @@ class Program
 
         do
         {
-            Console.WriteLine("\n=== SISTEMA DE STOCK ===");
+            Console.WriteLine("\n=== SISTEMA DE STOCK ALARCÓN===");
             Console.WriteLine("1. Agregar producto");
             Console.WriteLine("2. Ver productos");
             Console.WriteLine("3. Vender producto");
+            Console.WriteLine("4. Ver valor total del inventario");
             Console.WriteLine("0. Salir");
             Console.Write("Elegí una opción: ");
 
@@ -34,12 +35,14 @@ class Program
                 case 3:
                     VenderProductoMenu();
                     break;
+                    case 4:
+    Console.WriteLine($"Valor total del inventario: ${stockManager.ValorTotalInventario()}");
+    break;
             }
 
         } while (opcion != 0);
 
-        Console.WriteLine("¡Hasta luego!");
-    }
+Console.WriteLine($"\nHasta luego! Inventario final: {stockManager.CantidadProductos()} productos");    }
 
     static void AgregarProductoMenu()
     {
